@@ -75,6 +75,6 @@ class uc7 {
 public class Main {
     public static void main(String[] args) {
 
-        UC7.printWord("OOPS");
+        uc7.printWord("OOPS");
     }
 }
